@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "awsamplifytutorialdbd00b57": {}
+      },
+      "api": {
+        "awsamplifytutorial": {}
       }
     }
   }
